@@ -1,0 +1,8 @@
+database - feedback
+table- users
+
+id (int, pri, NN ,ai)
+name  (var)
+email (var)
+address (var)
+feedback (var)
